@@ -42,11 +42,13 @@ main {
 .container {
     width: 90%;
     height: 75em;
+    margin: .5em;
+    padding: 1em;
     background: black;
 }
 
 .images {
-    height: 40em;
+    height: 43em;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
@@ -69,7 +71,7 @@ main {
 .img4 {
     display:flex;
     align-items: right;
-    height: 20em;
+    height: 23em;
     width: 25em;
     padding: 1em;
 }
@@ -77,7 +79,14 @@ main {
 .img5 {
     display:flex;
     align-items: right;
-    height: 20em;
+    height: 23em;
     width: 25em;
     padding: 1em;
+}
+
+.images p{
+    width: 16em;
+    text-align: center;
+    margin: 1.49em;
+    color:white;
 }
