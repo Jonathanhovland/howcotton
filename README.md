@@ -9,4 +9,4 @@ First I got into the directory I wanted to deploy.
 Then I entered the command Surge.
 Then I had to log-in so I could be the only person to make changes and deploy it again.
 Here is the domain for my website that was deployed.
-http://guarded-brain.surge.sh/about.html
+http://guarded-brain.surge.sh
