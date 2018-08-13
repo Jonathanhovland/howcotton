@@ -1,0 +1,119 @@
+.title{
+    margin-left: .5em;
+    width: 60%;
+}
+
+header {
+    background:white;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2em;
+}
+
+img {
+    height: 100%;
+    width: 25%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    list-style: none;
+    padding: 2em;
+    text-shadow: 3px 2px red;
+}
+
+main {
+    width: 100vw;
+    height: 60em;
+    display:flex;
+    justify-content: center;
+}
+
+
+.container {
+    width: 90%;
+    height: 68em;
+    margin: .5em;
+    padding: 1em;
+    background: black;
+}
+
+.container h4 {
+    display: flex;
+    justify-content: center;
+    color:blue;
+    text-shadow: 3px 2px red;
+}
+.images {
+    height: 43em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.img2 {
+    display:flex;
+    justify-content: flex-start;
+    width: 25em;
+    padding: 1em;
+}
+
+.img3 {
+    display:flex;
+    align-items: right;
+    width: 25em;
+    padding: 1em;
+}
+
+.img4 {
+    display:flex;
+    align-items: right;
+    height: 23em;
+    width: 25em;
+    padding: 1em;
+}
+
+.img5 {
+    display:flex;
+    align-items: right;
+    height: 23em;
+    width: 25em;
+    padding: 1em;
+}
+
+.images p{
+    width: 16em;
+    text-align: center;
+    margin: 1.49em;
+    color:white;
+}
+
+.site-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    list-style: none;
+    padding: 2em;
+    text-shadow: 3px 2px red;
+}
+.site-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    list-style: none;
+    padding: 2em;
+    text-shadow: 3px 2px red;
+}
