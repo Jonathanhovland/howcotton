@@ -90,6 +90,7 @@ main {
     text-align: center;
     margin: 1.49em;
     color:white;
+    text-shadow: 3px 2px red;
 }
 
 .site-footer{
@@ -97,7 +98,6 @@ main {
     flex-direction: row;
     justify-content: center;
     width: 100%;
-    list-style: none;
     padding: 2em;
     text-shadow: 3px 2px red;
 }

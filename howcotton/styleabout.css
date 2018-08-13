@@ -65,7 +65,7 @@ main {
 .images p{
     width: 23em;
     text-align: center;
-    text-align: center;
+    margin-top: 2em;
     color:white;
     text-shadow: 3px 2px red;
 }
