@@ -93,7 +93,7 @@ main {
     text-shadow: 3px 2px red;
 }
 
-.site-footer{
+.footer{
     display: flex;
     flex-direction: row;
     justify-content: center;
