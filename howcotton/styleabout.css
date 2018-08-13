@@ -1,0 +1,80 @@
+.title{
+    margin-left: .5em;
+    width: 60%;
+}
+
+header {
+    background:white;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 2em;
+}
+
+img {
+    height: 100%;
+    width: 25%;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    width: 50%;
+}
+
+nav ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    list-style: none;
+    padding: 2em;
+    text-shadow: 3px 2px red;
+}
+
+main {
+    width: 100vw;
+    height: 60em;
+    display:flex;
+    justify-content: center;
+}
+
+.container {
+    width: 90%;
+    height: 68em;
+    margin: .5em;
+    padding: 1em;
+    background: black;
+}
+
+.images {
+    height: 22em;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.img2 {
+    display:flex;
+    align-items: right;
+    padding: 1em;
+    width: 23em;
+}
+
+.images p{
+    width: 23em;
+    text-align: center;
+    text-align: center;
+    color:white;
+    text-shadow: 3px 2px red;
+}
+
+.site-footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 2em;
+    text-shadow: 3px 2px red;
+}
