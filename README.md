@@ -1,4 +1,4 @@
-# howcotton
+# how cotton
 
 Over the past couple of weeks we have learned how to use HTML and CSS to layout a webpage.  For this project I created a webpage for my brand howcotton that I just recently started.  I used a lot of flexbox to create each of my three pages.  I also have placeholder images and text to show what will be added overtime to make it perfect.
 
